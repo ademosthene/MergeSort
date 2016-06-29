@@ -48,7 +48,7 @@ void MergeSort(int *A,int n) {
 int main() {
 	/* Code to test the MergeSort function. */
 	
-	int A[] = {6,2,3,1,9,10,15,13,12,17}; // creating an array of integers. 
+	int A[] = {9,10,15,13,12,17}; // creating an array of integers. 
 	int i,numberOfElements;
 
 	// finding number of elements in array as size of complete array in bytes divided by size of integer in bytes. 
